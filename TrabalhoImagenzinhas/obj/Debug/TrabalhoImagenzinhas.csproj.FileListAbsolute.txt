@@ -1,0 +1,9 @@
+C:\Users\lucas\documents\visual studio 2015\Projects\TrabalhoImagenzinhas\TrabalhoImagenzinhas\bin\Debug\TrabalhoImagenzinhas.exe.config
+C:\Users\lucas\documents\visual studio 2015\Projects\TrabalhoImagenzinhas\TrabalhoImagenzinhas\bin\Debug\TrabalhoImagenzinhas.exe
+C:\Users\lucas\documents\visual studio 2015\Projects\TrabalhoImagenzinhas\TrabalhoImagenzinhas\bin\Debug\TrabalhoImagenzinhas.pdb
+C:\Users\lucas\documents\visual studio 2015\Projects\TrabalhoImagenzinhas\TrabalhoImagenzinhas\obj\Debug\TrabalhoImagenzinhas.Form1.resources
+C:\Users\lucas\documents\visual studio 2015\Projects\TrabalhoImagenzinhas\TrabalhoImagenzinhas\obj\Debug\TrabalhoImagenzinhas.Properties.Resources.resources
+C:\Users\lucas\documents\visual studio 2015\Projects\TrabalhoImagenzinhas\TrabalhoImagenzinhas\obj\Debug\TrabalhoImagenzinhas.csproj.GenerateResource.Cache
+C:\Users\lucas\documents\visual studio 2015\Projects\TrabalhoImagenzinhas\TrabalhoImagenzinhas\obj\Debug\TrabalhoImagenzinhas.exe
+C:\Users\lucas\documents\visual studio 2015\Projects\TrabalhoImagenzinhas\TrabalhoImagenzinhas\obj\Debug\TrabalhoImagenzinhas.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\TrabalhoImagenzinhas\TrabalhoImagenzinhas\obj\Debug\TrabalhoImagenzinhas.csprojResolveAssemblyReference.cache
